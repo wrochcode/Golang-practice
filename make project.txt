@@ -1,0 +1,3 @@
+instal: go mod init first
+
+check project: cat go.mod

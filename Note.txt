@@ -1,0 +1,4 @@
+running: Run go run "name file" |example: go run main.go
+build - defauld: go build
+build - custom: go build -o "name file"" |example: go build -o keren
+"unix print golang: ./"file.exe" |example: ./first
